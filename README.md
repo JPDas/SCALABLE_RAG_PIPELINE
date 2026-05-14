@@ -12,6 +12,11 @@ The pipeline extracts text from PDFs, chunks it, generates embeddings, and store
 
 ---
 
+## Architecture
+
+<img width="801" height="421" alt="scalable_rag" src="https://github.com/user-attachments/assets/e16ce98f-c688-4ecb-905e-ef09328c5728" />
+
+
 ## 🚀 Features
 
 - **Extraction Layer**  
